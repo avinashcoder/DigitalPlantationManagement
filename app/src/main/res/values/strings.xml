@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Digital Plantation Management</string>
+    <string name="div">Divisional Forest Officer</string>
+    <string name="bankura">Bankura South Division</string>
+    <string name="digital">DIGITAL PLANTATION MANAGEMENT</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="save">Save</string>
+    <string name="plantation">Plantation Report App V. 1.0</string>
+    <string name="powered">powered by TECH UNICORN</string>
+    <string name="title_activity_manage">Manage</string>
+    <string name="enter">Enter Plantation Journal Number</string>
+    <string name="proceed">Proceed</string>
+    <string name="find">Find Journal to Proceed</string>
+    <string name="back">Back</string>
+    <string name="plantationyear">Enter Plantation Year</string>
+    <string name="plantationtext">Plantation Year</string>
+    <string name="select">Select Range</string>
+    <string name="select_journal">Select Journal No.:</string>
+    <string-array name="range">
+        <item>Select</item>
+        <item>0-5</item>
+        <item>5-10</item>
+        <item>10-20</item>
+        <item>20-50</item>
+    </string-array>
+
+    <string-array name="jouranals">
+        <item>Select</item>
+    </string-array>
+</resources>
